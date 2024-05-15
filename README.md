@@ -1,7 +1,7 @@
 # UWR
 Usefull web resources
-<br>
 
+<br>
 ## Learning
 
 ### DevOps Learning projects:
