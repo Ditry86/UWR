@@ -1,6 +1,7 @@
 # UWR
 Usefull web resources
-<BR>
+
+<br>
 
 ## Learning
 
