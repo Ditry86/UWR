@@ -5,6 +5,7 @@ My Usefull Web Resources
 
 ## Learning
 
+
 ### DevOps Learning projects:
 
 [Best DevOps Projects For Practical Learning](https://devopscube.com/devops-projects/)
@@ -26,6 +27,7 @@ My Usefull Web Resources
 [7 Top Online Resources to Learn C++](https://dev.to/evergrowingdev/7-top-online-resources-to-learn-c-5fb4)
 
 [8 Free and Useful C++ GUI Libraries](https://programmersought.com/article/61125489573/)
+
 
 ### Referencies and Guides:
 
