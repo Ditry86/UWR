@@ -15,8 +15,9 @@ My Usefull Web Resources
 [oop-examples](https://github.com/topics/oop-examples?l=c%2B%2B&o=desc&s=)
 
 
-### C++ Learning Source lists:
+### C/C++ Learning Source lists:
 
+[Системное программирование на Си. Уроки Школа 42](https://github.com/spogozhev/SCHOOL_42.git)
 [VC. 20 лучших бесплатных курсов C++ в 2024 году](https://vc.ru/u/1389654-machine-learning/1025118-20-luchshih-besplatnyh-kursov-c-v-2024-godu)
 
 [35+ бесплатных ресурсов для начинающих разработчиков С++](https://habr.com/ru/companies/yandex_praktikum/articles/807387/)
