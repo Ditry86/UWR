@@ -39,6 +39,8 @@ My Usefull Web Resources
 
 [Linux. Системное программирование](http://www.kavserver.ru/library/linuxsystemprogramming.shtml)
 
+[Пошаговое руководство по созданию торгового бота на любом языке программирования](https://habr.com/ru/companies/ruvds/articles/517234)
+
 
 
 
