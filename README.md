@@ -18,6 +18,8 @@ My Usefull Web Resources
 
 ### C/C++ Learning Source lists:
 
+[Netology DevOps exam project](https://github.com/netology-code/devops-diplom-yandexcloud)
+
 [Системное программирование на Си. Школа 42](https://github.com/spogozhev/SCHOOL_42.git)
 
 [VC. 20 лучших бесплатных курсов C++ в 2024 году](https://vc.ru/u/1389654-machine-learning/1025118-20-luchshih-besplatnyh-kursov-c-v-2024-godu)
