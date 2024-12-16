@@ -35,6 +35,8 @@ My Usefull Web Resources
 
 [Backend interview](https://backendinterview.ru/index.html)
 
+[Проект fullstack с нуля](https://habr.com/ru/articles/866678)
+
 [Object Oriented Programming In C++](https://github.com/aryashah2k/OOP-In-CPlusPlus)
 
 [Tutorial: GUI Programming with C++](https://www.unrepo.com/c-plus-plus/tutorial-gui-programming-with-c)
