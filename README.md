@@ -30,6 +30,10 @@ My Usefull Web Resources
 
 [8 Free and Useful C++ GUI Libraries](https://programmersought.com/article/61125489573/)
 
+### Other laguage learning source lists:
+
+[Изучаем Python: теория, практика, настройка инструментов](https://selectel.ru/blog/courses/course-python/)
+[Современный учебник JavaScript](https://learn.javascript.ru/)
 
 ### Referencies and Guides:
 
