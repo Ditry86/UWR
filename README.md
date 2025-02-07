@@ -36,6 +36,8 @@ My Usefull Web Resources
 
 [Современный учебник JavaScript](https://learn.javascript.ru/)
 
+[Добрый, добрый Python с Сергеем Балакиревым](https://stepik.org/course/100707/info)
+
 ### Referencies and Guides:
 
 [Backend interview](https://backendinterview.ru/index.html)
